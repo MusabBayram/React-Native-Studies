@@ -1,2 +1,2 @@
 # React-Native-Studies
-React Native'de yaptığım proje ve çalışmalar
+React Native'de yaptığım proje ve çalışmalar.
